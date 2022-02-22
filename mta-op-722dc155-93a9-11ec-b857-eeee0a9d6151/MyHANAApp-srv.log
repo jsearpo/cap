@@ -1,0 +1,1519 @@
+#2.0#2022 02 22 06:36:00.080#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:30 UTC 2022] Added process: "web" (STDOUT, API)#
+
+#2.0#2022 02 22 06:36:00.080#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:30 UTC 2022] Created app with guid 31703868-71db-42e7-8636-8b3a882eaac3 (STDOUT, API)#
+
+#2.0#2022 02 22 06:36:00.080#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:30 UTC 2022] Updating process: "web" (STDOUT, API)#
+
+#2.0#2022 02 22 06:36:00.080#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:31 UTC 2022] Scaling process: "web" (STDOUT, API)#
+
+#2.0#2022 02 22 06:36:00.080#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:31 UTC 2022] Updated app with guid 31703868-71db-42e7-8636-8b3a882eaac3 ({"route"=>"f66740db-c325-4d19-83ec-235f519c9c30", :verb=>"add", :relation=>"routes", :related_guid=>"f66740db-c325-4d19-83ec-235f519c9c30"}) (STDOUT, API)#
+
+#2.0#2022 02 22 06:36:00.080#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:31 UTC 2022] Updated app with guid 31703868-71db-42e7-8636-8b3a882eaac3 ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+
+#2.0#2022 02 22 06:36:00.080#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:35 UTC 2022] Updated app with guid 31703868-71db-42e7-8636-8b3a882eaac3 ({"metadata"=>{"annotations"=>{"mta_id"=>"MyHANAApp", "mta_version"=>"1.0.0", "mta_module"=>"{\"name\":\"MyHANAApp-srv\"}", "mta_module_provided_dependencies"=>"[]", "mta_bound_services"=>"[\"MyHANAApp-db\",\"MyHANAApp-xsuaa-service\"]"}, "labels"=>{"mta_id"=>"ec807ea94ed79a44f90dccbd559c6f5f"}}}) (STDOUT, API)#
+
+#2.0#2022 02 22 06:36:00.080#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:36 UTC 2022] Uploading app package for app with guid 31703868-71db-42e7-8636-8b3a882eaac3 (STDOUT, API)#
+
+#2.0#2022 02 22 06:36:00.080#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:36 UTC 2022] Updated app with guid 31703868-71db-42e7-8636-8b3a882eaac3 ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+
+#2.0#2022 02 22 06:36:00.081#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:50 UTC 2022] Scaling process: "web" (STDOUT, API)#
+
+#2.0#2022 02 22 06:36:00.081#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:50 UTC 2022] Creating build for app with guid 31703868-71db-42e7-8636-8b3a882eaac3 (STDOUT, API)#
+
+#2.0#2022 02 22 06:36:00.081#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:50 UTC 2022] Downloading nodejs_buildpack... (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:00.081#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:51 UTC 2022] Cell dd7c4036-7b32-4694-8009-f12301dc8a89 creating container for instance 181ffb6a-d160-4767-948b-2154c1abb948 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:00.081#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:51 UTC 2022] Downloaded nodejs_buildpack (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:00.081#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:51 UTC 2022] Cell dd7c4036-7b32-4694-8009-f12301dc8a89 successfully created container for instance 181ffb6a-d160-4767-948b-2154c1abb948 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:00.081#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:52 UTC 2022] Downloading app package... (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:00.081#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:52 UTC 2022] Downloaded app package (88.8K) (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:00.081#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:52 UTC 2022] -----> Nodejs Buildpack version 1.7.65 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:00.081#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:52 UTC 2022]        Copy [/tmp/buildpacks/092478478540c0d423f0bdd91cef63b0/dependencies/6ba42799f8211c597989b95ad2db3de2/node_16.13.1_linux_x64_cflinuxfs3_7f893010.tgz] (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:00.081#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:52 UTC 2022] -----> Installing node 16.13.1 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:00.081#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:52 UTC 2022]        [31;1m**WARNING**[0m Node version not specified in package.json or .nvmrc. See: http://docs.cloudfoundry.org/buildpacks/node/node-tips.html (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:00.081#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:52 UTC 2022]        engines.npm (package.json): unspecified (use default) (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:00.081#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:52 UTC 2022]        engines.node (package.json): unspecified (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:00.081#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:52 UTC 2022] -----> Installing binaries (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:00.081#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        Copy [/tmp/buildpacks/092478478540c0d423f0bdd91cef63b0/dependencies/4984aeaaf5967be21b1e442d431a1957/yarn_1.22.17_linux_noarch_any-stack_08892f64.tgz] (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:00.081#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022] -----> Installing yarn 1.22.17 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:00.081#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        Using default npm version: 8.1.2 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:00.081#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022] -----> Creating runtime environment (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:00.081#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        Installed yarn 1.22.17 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:00.081#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        NODE_HOME=/tmp/contents935972362/deps/0/node (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:00.081#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        NODE_ENV=production (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:00.081#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        Visit http://docs.cloudfoundry.org/buildpacks/node/index.html#vendoring (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:00.081#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        [34;1mPRO TIP:[0m It is recommended to vendor the application's Node.js dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:00.081#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        Installing node modules (package.json + package-lock.json) (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:00.081#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:00.081#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:00.081#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:00.081#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        NODE_VERBOSE=false (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:00.082#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2781###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        NODE_MODULES_CACHE=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:10.082#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17634###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        Installing node modules (package.json + package-lock.json) (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:10.083#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17634###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:10.083#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17634###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:10.083#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17634###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:10.083#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17634###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        NODE_VERBOSE=false (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:20.075#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31137###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        Installing node modules (package.json + package-lock.json) (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:20.075#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31137###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:20.075#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31137###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:20.075#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31137###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:20.075#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31137###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        NODE_MODULES_CACHE=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:30.120#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31142###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        Installing node modules (package.json + package-lock.json) (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:30.121#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31142###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:30.121#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31142###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:30.121#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31142###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:30.121#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31142###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        NODE_VERBOSE=false (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:40.157#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2810###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        Installing node modules (package.json + package-lock.json) (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:40.157#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2810###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:40.157#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2810###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:40.157#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2810###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:40.157#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2810###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        NODE_MODULES_CACHE=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:50.192#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31146###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        Installing node modules (package.json + package-lock.json) (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:50.192#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31146###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:50.192#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31146###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:50.192#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31146###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2022 02 22 06:36:50.192#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31146###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        NODE_VERBOSE=false (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:00.271#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31155###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        Installing node modules (package.json + package-lock.json) (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:00.272#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31155###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:00.272#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31155###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:00.272#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31155###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:00.272#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31155###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        NODE_MODULES_CACHE=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:10.266#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2815###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        Installing node modules (package.json + package-lock.json) (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:10.266#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2815###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:10.266#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2815###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:10.266#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2815###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:10.266#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2815###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        NODE_VERBOSE=false (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:10.266#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2815###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] npm notice  (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:10.266#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2815###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] npm notice  (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:10.266#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2815###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] npm notice Run `npm install -g npm@8.5.1` to update! (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:10.266#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2815###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] npm notice Changelog: <https://github.com/npm/cli/releases/tag/v8.5.1> (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:10.266#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2815###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] npm notice New minor version of npm available! 8.1.2 -> 8.5.1 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:10.266#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2815###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] npm ERR! errno ENOTFOUND (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:10.266#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2815###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] npm ERR! syscall getaddrinfo (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:10.266#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2815###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] npm ERR! code ENOTFOUND (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:10.266#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2815###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] npm ERR! network request to http://nginx-redirector.repo-cache.svc.cluster.local/repository/appstudio-npm-group/@sap/audit-logging/-/audit-logging-5.5.0.tgz failed, reason: getaddrinfo ENOTFOUND nginx-redirector.repo-cache.svc.cluster.local (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:10.267#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2815###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] npm ERR! network 'proxy' config is set properly.  See: 'npm help config' (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:10.267#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2815###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] npm ERR! network If you are behind a proxy, please make sure that the (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:10.267#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2815###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] npm ERR! network  (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:10.267#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2815###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] npm ERR! network In most cases you are behind a proxy or have bad network settings. (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:10.267#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2815###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] npm ERR! network This is a problem related to network connectivity. (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:10.267#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2815###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] npm ERR!     /tmp/cache/final/.npm/_logs/2022-02-22T06_37_06_571Z-debug.log (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:10.267#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2815###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] npm ERR! A complete log of this run can be found in: (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:10.267#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2815###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022]        [31;1m**ERROR**[0m Unable to build dependencies: exit status 1 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:10.267#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2815###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] Failed to compile droplet: Failed to run all supply scripts: exit status 14 (STDERR, STG)#
+
+#2.0#2022 02 22 06:37:10.267#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2815###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] Exit status 223 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:10.267#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2815###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:07 UTC 2022] Cell dd7c4036-7b32-4694-8009-f12301dc8a89 destroying container for instance 181ffb6a-d160-4767-948b-2154c1abb948 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:10.267#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2815###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:07 UTC 2022] Cell dd7c4036-7b32-4694-8009-f12301dc8a89 stopping instance 181ffb6a-d160-4767-948b-2154c1abb948 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:10.267#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2815###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:07 UTC 2022] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2022 02 22 06:37:10.267#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2815###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:08 UTC 2022] Cell dd7c4036-7b32-4694-8009-f12301dc8a89 successfully destroyed container for instance 181ffb6a-d160-4767-948b-2154c1abb948 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.771#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        Installing node modules (package.json + package-lock.json) (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.771#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.771#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.771#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.771#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:35:55 UTC 2022]        NODE_VERBOSE=false (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.771#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] npm notice  (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.771#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] npm notice  (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.771#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] npm notice Run `npm install -g npm@8.5.1` to update! (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.771#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] npm notice Changelog: <https://github.com/npm/cli/releases/tag/v8.5.1> (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.771#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] npm notice New minor version of npm available! 8.1.2 -> 8.5.1 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.771#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] npm ERR! errno ENOTFOUND (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.771#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] npm ERR! syscall getaddrinfo (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.771#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] npm ERR! code ENOTFOUND (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.771#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] npm ERR! network request to http://nginx-redirector.repo-cache.svc.cluster.local/repository/appstudio-npm-group/@sap/audit-logging/-/audit-logging-5.5.0.tgz failed, reason: getaddrinfo ENOTFOUND nginx-redirector.repo-cache.svc.cluster.local (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.771#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] npm ERR! network 'proxy' config is set properly.  See: 'npm help config' (STDOUT, STG)#
+
+
+
+
+#2.0#2022 02 22 06:37:20.771#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] npm ERR! network If you are behind a proxy, please make sure that the (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.771#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] npm ERR! network  (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.771#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] npm ERR! network In most cases you are behind a proxy or have bad network settings. (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.771#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] npm ERR! network This is a problem related to network connectivity. (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.771#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] npm ERR!     /tmp/cache/final/.npm/_logs/2022-02-22T06_37_06_571Z-debug.log (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.771#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] npm ERR! A complete log of this run can be found in: (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.771#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022]        [31;1m**ERROR**[0m Unable to build dependencies: exit status 1 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.771#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] Failed to compile droplet: Failed to run all supply scripts: exit status 14 (STDERR, STG)#
+
+#2.0#2022 02 22 06:37:20.771#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:06 UTC 2022] Exit status 223 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.771#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:07 UTC 2022] Cell dd7c4036-7b32-4694-8009-f12301dc8a89 destroying container for instance 181ffb6a-d160-4767-948b-2154c1abb948 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.771#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:07 UTC 2022] Cell dd7c4036-7b32-4694-8009-f12301dc8a89 stopping instance 181ffb6a-d160-4767-948b-2154c1abb948 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.771#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:07 UTC 2022] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2022 02 22 06:37:20.771#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:08 UTC 2022] Cell dd7c4036-7b32-4694-8009-f12301dc8a89 successfully destroyed container for instance 181ffb6a-d160-4767-948b-2154c1abb948 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.771#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:11 UTC 2022] Creating build for app with guid 31703868-71db-42e7-8636-8b3a882eaac3 (STDOUT, API)#
+
+#2.0#2022 02 22 06:37:20.772#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:12 UTC 2022] Downloading nodejs_buildpack... (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.772#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:12 UTC 2022] Cell dd7c4036-7b32-4694-8009-f12301dc8a89 creating container for instance 1f686021-faad-47c8-ba9b-426119d648dd (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.772#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:12 UTC 2022] Downloaded nodejs_buildpack (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.772#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:12 UTC 2022] Cell dd7c4036-7b32-4694-8009-f12301dc8a89 successfully created container for instance 1f686021-faad-47c8-ba9b-426119d648dd (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.772#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:13 UTC 2022] Downloading app package... (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.772#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:13 UTC 2022] Downloaded app package (88.8K) (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.772#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:14 UTC 2022] -----> Nodejs Buildpack version 1.7.65 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.772#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:14 UTC 2022]        Copy [/tmp/buildpacks/092478478540c0d423f0bdd91cef63b0/dependencies/6ba42799f8211c597989b95ad2db3de2/node_16.13.1_linux_x64_cflinuxfs3_7f893010.tgz] (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.772#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:14 UTC 2022] -----> Installing node 16.13.1 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.772#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:14 UTC 2022]        [31;1m**WARNING**[0m Node version not specified in package.json or .nvmrc. See: http://docs.cloudfoundry.org/buildpacks/node/node-tips.html (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.772#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:14 UTC 2022]        engines.npm (package.json): unspecified (use default) (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.772#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:14 UTC 2022]        engines.node (package.json): unspecified (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.772#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:14 UTC 2022] -----> Installing binaries (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.772#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        Copy [/tmp/buildpacks/092478478540c0d423f0bdd91cef63b0/dependencies/4984aeaaf5967be21b1e442d431a1957/yarn_1.22.17_linux_noarch_any-stack_08892f64.tgz] (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.772#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022] -----> Installing yarn 1.22.17 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.772#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        Using default npm version: 8.1.2 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.772#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022] -----> Creating runtime environment (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.772#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        Installed yarn 1.22.17 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.772#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        Installing node modules (package.json + package-lock.json) (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.772#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.772#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.772#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.772#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_VERBOSE=false (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.772#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_MODULES_CACHE=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.772#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_HOME=/tmp/contents1908690023/deps/0/node (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.772#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_ENV=production (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.772#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        Visit http://docs.cloudfoundry.org/buildpacks/node/index.html#vendoring (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:20.772#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2818###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        [34;1mPRO TIP:[0m It is recommended to vendor the application's Node.js dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:30.348#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17671###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        Installing node modules (package.json + package-lock.json) (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:30.348#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17671###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:30.348#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17671###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:30.348#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17671###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:30.348#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17671###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_VERBOSE=false (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:30.348#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17671###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_MODULES_CACHE=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:30.348#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17671###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_HOME=/tmp/contents1908690023/deps/0/node (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:30.349#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17671###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_ENV=production (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:30.349#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17671###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        Visit http://docs.cloudfoundry.org/buildpacks/node/index.html#vendoring (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:40.314#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31172###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        Installing node modules (package.json + package-lock.json) (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:40.314#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31172###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:40.314#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31172###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:40.314#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31172###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:40.314#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31172###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_VERBOSE=false (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:40.314#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31172###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_MODULES_CACHE=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:40.314#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31172###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_HOME=/tmp/contents1908690023/deps/0/node (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:40.314#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31172###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_ENV=production (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:40.314#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31172###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        [34;1mPRO TIP:[0m It is recommended to vendor the application's Node.js dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:50.358#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2823###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        Installing node modules (package.json + package-lock.json) (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:50.358#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2823###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:50.358#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2823###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:50.358#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2823###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:50.358#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2823###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_VERBOSE=false (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:50.358#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2823###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_MODULES_CACHE=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:50.358#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2823###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_HOME=/tmp/contents1908690023/deps/0/node (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:50.358#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2823###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_ENV=production (STDOUT, STG)#
+
+#2.0#2022 02 22 06:37:50.358#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2823###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        Visit http://docs.cloudfoundry.org/buildpacks/node/index.html#vendoring (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:00.451#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2827###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        Installing node modules (package.json + package-lock.json) (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:00.451#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2827###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:00.451#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2827###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:00.451#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2827###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:00.451#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2827###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_VERBOSE=false (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:00.451#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2827###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_MODULES_CACHE=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:00.451#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2827###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_HOME=/tmp/contents1908690023/deps/0/node (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:00.451#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2827###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_ENV=production (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:00.451#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2827###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        [34;1mPRO TIP:[0m It is recommended to vendor the application's Node.js dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:10.428#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17679###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        Installing node modules (package.json + package-lock.json) (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:10.428#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17679###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:10.428#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17679###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:10.428#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17679###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:10.428#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17679###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_VERBOSE=false (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:10.428#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17679###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_MODULES_CACHE=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:10.428#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17679###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_HOME=/tmp/contents1908690023/deps/0/node (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:10.428#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17679###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_ENV=production (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:10.428#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17679###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        Visit http://docs.cloudfoundry.org/buildpacks/node/index.html#vendoring (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:20.470#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31191###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        Installing node modules (package.json + package-lock.json) (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:20.470#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31191###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:20.470#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31191###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:20.470#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31191###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:20.470#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31191###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_VERBOSE=false (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:20.470#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31191###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_MODULES_CACHE=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:20.470#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31191###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_HOME=/tmp/contents1908690023/deps/0/node (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:20.470#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31191###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_ENV=production (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:20.470#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31191###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        [34;1mPRO TIP:[0m It is recommended to vendor the application's Node.js dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:31.178#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2832###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        Installing node modules (package.json + package-lock.json) (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:31.178#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2832###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:31.178#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2832###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:31.178#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2832###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:31.178#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2832###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_VERBOSE=false (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:31.178#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2832###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_MODULES_CACHE=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:31.178#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2832###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_HOME=/tmp/contents1908690023/deps/0/node (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:31.178#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2832###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_ENV=production (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:31.178#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2832###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        Visit http://docs.cloudfoundry.org/buildpacks/node/index.html#vendoring (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:31.178#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2832###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] npm notice New minor version of npm available! 8.1.2 -> 8.5.1 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:31.178#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2832###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] npm notice  (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:31.178#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2832###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] npm notice  (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:31.178#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2832###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] npm notice Run `npm install -g npm@8.5.1` to update! (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:31.178#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2832###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] npm notice Changelog: <https://github.com/npm/cli/releases/tag/v8.5.1> (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:31.178#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2832###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] npm ERR! errno ENOTFOUND (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:31.178#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2832###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] npm ERR! syscall getaddrinfo (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:31.178#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2832###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] npm ERR! code ENOTFOUND (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:31.178#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2832###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] npm ERR! network 'proxy' config is set properly.  See: 'npm help config' (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:31.178#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2832###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] npm ERR! network If you are behind a proxy, please make sure that the (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:31.178#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2832###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] npm ERR! network  (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:31.178#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2832###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] npm ERR! network In most cases you are behind a proxy or have bad network settings. (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:31.178#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2832###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] npm ERR! network This is a problem related to network connectivity. (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:31.178#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2832###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] npm ERR! network request to http://nginx-redirector.repo-cache.svc.cluster.local/repository/appstudio-npm-group/@sap/audit-logging/-/audit-logging-5.5.0.tgz failed, reason: getaddrinfo ENOTFOUND nginx-redirector.repo-cache.svc.cluster.local (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:31.178#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2832###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] npm ERR!     /tmp/cache/final/.npm/_logs/2022-02-22T06_38_27_755Z-debug.log (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:31.178#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2832###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] npm ERR! A complete log of this run can be found in: (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:31.178#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2832###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022]        [31;1m**ERROR**[0m Unable to build dependencies: exit status 1 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:31.178#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2832###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] Failed to compile droplet: Failed to run all supply scripts: exit status 14 (STDERR, STG)#
+
+#2.0#2022 02 22 06:38:31.178#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2832###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] Exit status 223 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:31.178#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2832###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:28 UTC 2022] Cell dd7c4036-7b32-4694-8009-f12301dc8a89 destroying container for instance 1f686021-faad-47c8-ba9b-426119d648dd (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:31.178#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2832###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:28 UTC 2022] Cell dd7c4036-7b32-4694-8009-f12301dc8a89 stopping instance 1f686021-faad-47c8-ba9b-426119d648dd (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:31.178#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2832###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:28 UTC 2022] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2022 02 22 06:38:31.178#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2832###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:29 UTC 2022] Cell dd7c4036-7b32-4694-8009-f12301dc8a89 successfully destroyed container for instance 1f686021-faad-47c8-ba9b-426119d648dd (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.519#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        Installing node modules (package.json + package-lock.json) (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.519#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.519#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.519#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.519#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_VERBOSE=false (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.519#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_MODULES_CACHE=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.519#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_HOME=/tmp/contents1908690023/deps/0/node (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.519#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        NODE_ENV=production (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.519#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:37:16 UTC 2022]        Visit http://docs.cloudfoundry.org/buildpacks/node/index.html#vendoring (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.519#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] npm notice New minor version of npm available! 8.1.2 -> 8.5.1 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.519#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] npm notice  (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.519#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] npm notice  (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.519#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] npm notice Run `npm install -g npm@8.5.1` to update! (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] npm notice Changelog: <https://github.com/npm/cli/releases/tag/v8.5.1> (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] npm ERR! errno ENOTFOUND (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] npm ERR! syscall getaddrinfo (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] npm ERR! code ENOTFOUND (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] npm ERR! network 'proxy' config is set properly.  See: 'npm help config' (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] npm ERR! network If you are behind a proxy, please make sure that the (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] npm ERR! network  (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] npm ERR! network In most cases you are behind a proxy or have bad network settings. (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] npm ERR! network This is a problem related to network connectivity. (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] npm ERR! network request to http://nginx-redirector.repo-cache.svc.cluster.local/repository/appstudio-npm-group/@sap/audit-logging/-/audit-logging-5.5.0.tgz failed, reason: getaddrinfo ENOTFOUND nginx-redirector.repo-cache.svc.cluster.local (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] npm ERR!     /tmp/cache/final/.npm/_logs/2022-02-22T06_38_27_755Z-debug.log (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] npm ERR! A complete log of this run can be found in: (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022]        [31;1m**ERROR**[0m Unable to build dependencies: exit status 1 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] Failed to compile droplet: Failed to run all supply scripts: exit status 14 (STDERR, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:27 UTC 2022] Exit status 223 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:28 UTC 2022] Cell dd7c4036-7b32-4694-8009-f12301dc8a89 destroying container for instance 1f686021-faad-47c8-ba9b-426119d648dd (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:28 UTC 2022] Cell dd7c4036-7b32-4694-8009-f12301dc8a89 stopping instance 1f686021-faad-47c8-ba9b-426119d648dd (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:28 UTC 2022] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:29 UTC 2022] Cell dd7c4036-7b32-4694-8009-f12301dc8a89 successfully destroyed container for instance 1f686021-faad-47c8-ba9b-426119d648dd (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:34 UTC 2022] Creating build for app with guid 31703868-71db-42e7-8636-8b3a882eaac3 (STDOUT, API)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:34 UTC 2022] Downloading nodejs_buildpack... (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:35 UTC 2022] Cell 7d5e9775-9d76-44a8-9b07-ff01fa905d04 creating container for instance 5c389045-02d0-4815-bf33-0af4921d0c2b (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:35 UTC 2022] Downloaded nodejs_buildpack (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:35 UTC 2022] Cell 7d5e9775-9d76-44a8-9b07-ff01fa905d04 successfully created container for instance 5c389045-02d0-4815-bf33-0af4921d0c2b (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:36 UTC 2022] Downloading app package... (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:36 UTC 2022] Downloaded app package (88.8K) (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:36 UTC 2022] -----> Nodejs Buildpack version 1.7.65 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:36 UTC 2022] -----> Installing binaries (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:36 UTC 2022]        Copy [/tmp/buildpacks/092478478540c0d423f0bdd91cef63b0/dependencies/6ba42799f8211c597989b95ad2db3de2/node_16.13.1_linux_x64_cflinuxfs3_7f893010.tgz] (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:36 UTC 2022] -----> Installing node 16.13.1 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:36 UTC 2022]        [31;1m**WARNING**[0m Node version not specified in package.json or .nvmrc. See: http://docs.cloudfoundry.org/buildpacks/node/node-tips.html (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:36 UTC 2022]        engines.npm (package.json): unspecified (use default) (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:36 UTC 2022]        engines.node (package.json): unspecified (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:38 UTC 2022]        Copy [/tmp/buildpacks/092478478540c0d423f0bdd91cef63b0/dependencies/4984aeaaf5967be21b1e442d431a1957/yarn_1.22.17_linux_noarch_any-stack_08892f64.tgz] (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:38 UTC 2022] -----> Installing yarn 1.22.17 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:38 UTC 2022]        Using default npm version: 8.1.2 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022] -----> Creating runtime environment (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        Installed yarn 1.22.17 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        Installing node modules (package.json + package-lock.json) (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NODE_VERBOSE=false (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NODE_MODULES_CACHE=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.520#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NODE_HOME=/tmp/contents3107689901/deps/0/node (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.521#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NODE_ENV=production (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.521#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        Visit http://docs.cloudfoundry.org/buildpacks/node/index.html#vendoring (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:40.521#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17703###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        [34;1mPRO TIP:[0m It is recommended to vendor the application's Node.js dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:50.530#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31210###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        Installing node modules (package.json + package-lock.json) (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:50.530#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31210###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:50.530#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31210###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:50.530#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31210###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:50.530#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31210###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NODE_VERBOSE=false (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:50.531#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31210###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NODE_MODULES_CACHE=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:50.531#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31210###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NODE_HOME=/tmp/contents3107689901/deps/0/node (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:50.531#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31210###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NODE_ENV=production (STDOUT, STG)#
+
+#2.0#2022 02 22 06:38:50.531#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31210###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        Visit http://docs.cloudfoundry.org/buildpacks/node/index.html#vendoring (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:00.696#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31216###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        Installing node modules (package.json + package-lock.json) (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:00.696#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31216###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:00.696#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31216###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:00.696#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31216###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:00.696#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31216###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NODE_VERBOSE=false (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:00.696#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31216###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NODE_MODULES_CACHE=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:00.696#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31216###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NODE_HOME=/tmp/contents3107689901/deps/0/node (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:00.696#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31216###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NODE_ENV=production (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:00.696#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31216###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        [34;1mPRO TIP:[0m It is recommended to vendor the application's Node.js dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:10.618#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2847###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        Installing node modules (package.json + package-lock.json) (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:10.618#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2847###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:10.618#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2847###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:10.618#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2847###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:10.618#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2847###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NODE_VERBOSE=false (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:10.618#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2847###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NODE_MODULES_CACHE=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:10.618#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2847###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NODE_HOME=/tmp/contents3107689901/deps/0/node (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:10.618#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2847###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NODE_ENV=production (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:10.618#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2847###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        Visit http://docs.cloudfoundry.org/buildpacks/node/index.html#vendoring (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:20.631#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2849###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        Installing node modules (package.json + package-lock.json) (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:20.631#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2849###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:20.631#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2849###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:20.631#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2849###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:20.631#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2849###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NODE_VERBOSE=false (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:20.631#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2849###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NODE_MODULES_CACHE=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:20.631#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2849###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NODE_HOME=/tmp/contents3107689901/deps/0/node (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:20.631#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2849###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NODE_ENV=production (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:20.631#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2849###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        [34;1mPRO TIP:[0m It is recommended to vendor the application's Node.js dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:30.646#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2855###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        Installing node modules (package.json + package-lock.json) (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:30.646#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2855###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:30.646#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2855###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:30.646#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2855###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:30.646#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2855###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NODE_VERBOSE=false (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:30.646#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2855###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NODE_MODULES_CACHE=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:30.646#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2855###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NODE_HOME=/tmp/contents3107689901/deps/0/node (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:30.646#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2855###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NODE_ENV=production (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:30.646#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2855###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        Visit http://docs.cloudfoundry.org/buildpacks/node/index.html#vendoring (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:40.701#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17726###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        Installing node modules (package.json + package-lock.json) (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:40.701#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17726###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:40.701#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17726###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:40.701#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17726###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:40.701#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17726###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NODE_VERBOSE=false (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:40.701#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17726###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NODE_MODULES_CACHE=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:40.701#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17726###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NODE_HOME=/tmp/contents3107689901/deps/0/node (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:40.701#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17726###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NODE_ENV=production (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:40.701#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-17726###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        [34;1mPRO TIP:[0m It is recommended to vendor the application's Node.js dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:50.984#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31244###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        Installing node modules (package.json + package-lock.json) (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:50.984#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31244###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:50.984#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31244###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:50.984#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31244###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:50.984#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31244###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NODE_VERBOSE=false (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:50.984#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31244###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NODE_MODULES_CACHE=true (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:50.984#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31244###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NODE_HOME=/tmp/contents3107689901/deps/0/node (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:50.984#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31244###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        NODE_ENV=production (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:50.984#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31244###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:38:39 UTC 2022]        Visit http://docs.cloudfoundry.org/buildpacks/node/index.html#vendoring (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:50.984#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31244###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:39:50 UTC 2022] npm notice  (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:50.984#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31244###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:39:50 UTC 2022] npm notice Run `npm install -g npm@8.5.1` to update! (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:50.984#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31244###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:39:50 UTC 2022] npm notice Changelog: <https://github.com/npm/cli/releases/tag/v8.5.1> (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:50.984#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31244###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:39:50 UTC 2022] npm ERR! errno ENOTFOUND (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:50.985#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31244###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:39:50 UTC 2022] npm ERR! network In most cases you are behind a proxy or have bad network settings. (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:50.985#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31244###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:39:50 UTC 2022] npm ERR! network 'proxy' config is set properly.  See: 'npm help config' (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:50.985#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31244###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:39:50 UTC 2022] npm ERR! network If you are behind a proxy, please make sure that the (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:50.985#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31244###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:39:50 UTC 2022] npm ERR! network  (STDOUT, STG)#
+
+#2.0#2022 02 22 06:39:50.985#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-31244###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:39:50 UTC 2022]        [31;1m**ERROR**[0m Unable to build dependencies: exit status 1 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:40:00.796#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2878###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:39:50 UTC 2022] Failed to compile droplet: Failed to run all supply scripts: exit status 14 (STDERR, STG)#
+
+#2.0#2022 02 22 06:40:00.796#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2878###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:39:50 UTC 2022] Exit status 223 (STDOUT, STG)#
+
+#2.0#2022 02 22 06:40:00.796#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2878###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:39:51 UTC 2022] Cell 7d5e9775-9d76-44a8-9b07-ff01fa905d04 destroying container for instance 5c389045-02d0-4815-bf33-0af4921d0c2b (STDOUT, STG)#
+
+#2.0#2022 02 22 06:40:00.796#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2878###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:39:51 UTC 2022] Cell 7d5e9775-9d76-44a8-9b07-ff01fa905d04 stopping instance 5c389045-02d0-4815-bf33-0af4921d0c2b (STDOUT, STG)#
+
+#2.0#2022 02 22 06:40:00.796#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2878###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:39:51 UTC 2022] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2022 02 22 06:40:00.796#Z#DEBUG#com.sap.cloud.lm.sl.xs2.722dc155-93a9-11ec-b857-eeee0a9d6151.MyHANAApp-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2878###
+[PollStageAppStatusExecution] [MyHANAApp-srv] 31703868-71db-42e7-8636-8b3a882eaac3 [Tue Feb 22 06:39:51 UTC 2022] Cell 7d5e9775-9d76-44a8-9b07-ff01fa905d04 successfully destroyed container for instance 5c389045-02d0-4815-bf33-0af4921d0c2b (STDOUT, STG)#
+
